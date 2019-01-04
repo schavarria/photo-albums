@@ -1,0 +1,252 @@
+{
+	"albums":[
+		{
+			"id":1,
+			"albumName":"Puppies",
+			"coverPhoto":"https://i.pinimg.com/originals/06/6e/38/066e386c59964670600ff360871b3a20.jpg"
+		},
+		{
+			"id":2,
+			"albumName":"Kittens",
+			"coverPhoto":"https://www.dejohnpetservices.com/wp-content/uploads/cats-animals-kittens-background.jpg"
+		},
+		{
+			"id":3,
+			"albumName":"Shows",
+			"coverPhoto":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/House_of_Cards_season_4.png/250px-House_of_Cards_season_4.png"
+		},
+		{
+			"id":4,
+			"albumName":"Guatemala",
+			"coverPhoto":"http://stjconnect.org/hp_wordpress/wp-content/uploads/2014/02/guatemala-thebook-cover9.jpg"
+		},
+		{
+			"id":5,
+			"albumName":"Hawaii",
+			"coverPhoto":"https://www.jetsetter.com/uploads/sites/7/2018/04/dY0vToBj.jpeg"
+		},
+		{
+			"id":6,
+			"albumName":"Beer",
+			"coverPhoto":"https://i.pinimg.com/originals/de/14/5e/de145e36e7ac1bd1b82a296d278e6e00.jpg"
+		}
+	],
+	"images":[
+		{
+			"id":1,
+			"name":"Pitbull Pup",
+			"url":"https://i.pinimg.com/originals/06/6e/38/066e386c59964670600ff360871b3a20.jpg",
+			"albumId":1
+		},
+		{
+			"id":2,
+			"name":"Boxer Pups",
+			"url":"https://www.mediastorehouse.com/p/172/dog-boxer-puppies-11753163.jpg",
+			"albumId":1
+		},
+		{
+			"id":3,
+			"name":"Rot Pups",
+			"url":"https://cdn1.rottweilerhq.com/wp-content/uploads/2014/04/rottweiler-puppy-adoption.jpg",
+			"albumId":1
+		},
+		{
+			"id":4,
+			"name":"Dobbies",
+			"url":"https://i.pinimg.com/originals/1f/eb/b9/1febb99e8e3d5589413eab9fdfe4680c.jpg",
+			"albumId":1
+		},
+		{
+			"id":5,
+			"name":"Grate Danes",
+			"url":"http://puppytoob.com/wp-content/uploads/2017/04/Great-Dane-Puppies-750x437.jpg",
+			"albumId":1
+		},
+		{
+			"id":6,
+			"name":"German Sheppies",
+			"url":"https://i.etsystatic.com/5302623/r/il/c07932/1050855909/il_570xN.1050855909_bn9v.jpg",
+			"albumId":1
+		},
+			{
+			"id":7,
+			"name":"kitten 1",
+			"url":"https://www.dejohnpetservices.com/wp-content/uploads/cats-animals-kittens-background.jpg",
+			"albumId":2
+		},
+		{
+			"id":8,
+			"name":"kitten 2",
+			"url":"https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+			"albumId":2
+		},
+		{
+			"id":9,
+			"name":"kitten 3",
+			"url":"https://www.royalcanin.com/~/media/Royal-Canin/Content/persian-kittens.ashx",
+			"albumId":2
+		},
+		{
+			"id":10,
+			"name":"kitten 4",
+			"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHrpaVjDt9IrghiRZpLVyLGsa4vBf5_yPV6RFCIpl4x2T_wFO",
+			"albumId":2
+		},
+		{
+			"id":11,
+			"name":"kitten 5",
+			"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPRckc9CYaBFkZPBIwLJSeNyv04EMXkgmeRxx6SUEI_bpQ5_sdQ",
+			"albumId":2
+		},
+		{
+			"id":12,
+			"name":"kitten 6",
+			"url":"https://cdn.shopify.com/s/files/1/0997/4496/files/Capture_1ace343b-9a38-42f2-9a38-85ec98551abc_grande.JPG?v=1541632662",
+			"albumId":2
+		},
+			{
+			"id":13,
+			"name":"House of Cards",
+			"url":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/House_of_Cards_season_4.png/250px-House_of_Cards_season_4.png",
+			"albumId":3
+		},
+		{
+			"id":14,
+			"name":"How to get Away with Murder",
+			"url":"https://is2-ssl.mzstatic.com/image/thumb/Video49/v4/6e/65/64/6e65645f-1c43-db49-fbbf-b77d2fa58c13/source/1200x630bb.jpg",
+			"albumId":3
+		},
+		{
+			"id":15,
+			"name":"New Girl",
+			"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVZX_pM02miM77d9VeFXTeBu5QhUlPxdjsxGou3tVV9eTOVAFLQ",
+			"albumId":3
+		},
+		{
+			"id":16,
+			"name":"Shameless",
+			"url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shameless_Season_4.jpg/250px-Shameless_Season_4.jpg",
+			"albumId":3
+		},
+		{
+			"id":17,
+			"name":"Sabrina",
+			"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnqb5ST1IaWh1esNkwT6VEpVy2GXBGpeRx7H3B1BQex2XKkix",
+			"albumId":3
+		},
+		{
+			"id":18,
+			"name":"Salem",
+			"url":"https://occ-0-114-116.1.nflxso.net/art/895f8/e3a448bde065586e7c0c2fadc18ff3c9782895f8.jpg",
+			"albumId":3
+		},
+			{
+			"id":19,
+			"name":"Guatemala",
+			"url":"http://stjconnect.org/hp_wordpress/wp-content/uploads/2014/02/guatemala-thebook-cover9.jpg",
+			"albumId":4
+		},
+		{
+			"id":20,
+			"name":"Champey",
+			"url":"http://1.bp.blogspot.com/-IoFBTEn6GFc/UZAKYMFl26I/AAAAAAAAKSY/cinWDR9n6Nk/s640/semuc-champey-close-up.jpg",
+			"albumId":4
+		},
+		{
+			"id":21,
+			"name":"Rio Dulce",
+			"url":"http://www.visitcentroamerica.com/wp-content/uploads/2017/12/place-central-america-guatemala-rio-dulce-03.jpg",
+			"albumId":4
+		},
+		{
+			"id":22,
+			"name":"Tikal",
+			"url":"https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/116000_B_Guatemala_Tikal_shutterstock_000021688951.jpg",
+			"albumId":4
+		},
+		{
+			"id":23,
+			"name":"Antigua",
+			"url":"https://www.ixchelschool.com/images/antigua-guatemala/arch-04-992x744.jpg",
+			"albumId":4
+		},
+		{
+			"id":24,
+			"name":"Puerto asn Jose ",
+			"url":"https://www.guatemala.com/fotos/201703/Puerto-de-San-Jose-885x500.jpg",
+			"albumId":4
+		},
+			{
+			"id":25,
+			"name":"Big Island",
+			"url":"https://www.jetsetter.com/uploads/sites/7/2018/04/dY0vToBj.jpeg",
+			"albumId":5
+		},
+		{
+			"id":26,
+			"name":"Mauna Kea Beach",
+			"url":"https://www.hawaii.com/wp-content/uploads/2016/02/Mauna-Kea-Beach.jpg",
+			"albumId":5
+		},
+		{
+			"id":27,
+			"name":"Panaluu Black Sand Beach",
+			"url":"https://i.pinimg.com/originals/71/2f/5b/712f5bc65ee99315ecccf4b60723a9c3.jpg",
+			"albumId":5
+		},
+		{
+			"id":28,
+			"name":"Rainbow Falls",
+			"url":"http://www.best-big-island-hawaii.com/images/rainbow_falls_hawaii.jpg",
+			"albumId":5
+		},
+		{
+			"id":29,
+			"name":"South Point at Ka Lae",
+			"url":"https://i.ytimg.com/vi/nTfbWlovsgE/maxresdefault.jpg",
+			"albumId":5
+		},
+		{
+			"id":30,
+			"name":"Kilauea Volcano",
+			"url":"https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2018/05/12792432484_25a160b02e_z.jpg?itok=wIFMiNAI&fc=50,50",
+			"albumId":5
+		},
+			{
+			"id":31,
+			"name":"Lovelady",
+			"url":"https://i.pinimg.com/originals/de/14/5e/de145e36e7ac1bd1b82a296d278e6e00.jpg",
+			"albumId":6
+		},
+		{
+			"id":32,
+			"name":"Pabst",
+			"url":"https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Pabst_Blue_Ribbon_logo.svg/1200px-Pabst_Blue_Ribbon_logo.svg.png",
+			"albumId":6
+		},
+		{
+			"id":33,
+			"name":"Blue Moon",
+			"url":"https://www.bluemoonbrewingcompany.com/sites/bluemoon/files/2018-07/BMBC_ASO_FirePit_IG_0.jpg",
+			"albumId":6
+		},
+		{
+			"id":34,
+			"name":"Shock Top",
+			"url":"http://kegguys.com/wp-content/uploads/2017/05/shock_to_belgian_white_logo.jpg",
+			"albumId":6
+		},
+		{
+			"id":35,
+			"name":"Modelo",
+			"url":"https://d1ynl4hb5mx7r8.cloudfront.net/wp-content/uploads/2018/01/05143338/Modelo_FullWidth_A.jpg",
+			"albumId":6
+		},
+		{
+			"id":36,
+			"name":"New Castle",
+			"url":"https://az.crescentcrown.com/wp-content/uploads/sites/2/brands/NewcastleBrown-image_356.png",
+			"albumId":6
+		}
+	]
+}
